@@ -7,4 +7,4 @@ Valid information arguments are:
 "false" - Creates map without obstruction, directs vehicle to the end of the path and prints "END" on the standard output.
 
 
-GIT repository link: 
+GIT repository link: https://github.com/inikolic92/VersoTask
